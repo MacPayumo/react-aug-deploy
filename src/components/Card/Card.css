@@ -1,0 +1,7 @@
+a {
+    text-decoration: none;
+}
+
+#product-card .card:hover {
+    background-color: lightgrey;
+}
